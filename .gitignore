@@ -1,0 +1,22 @@
+.DS_Store
+.settings
+.project
+.classpath
+*.class
+Spigot/*
+SportBukkit/*
+*.pyc
+.Python
+bin/*
+lib/*
+include/*
+badlionWebsite/.idea/*
+bin/
+.idea/
+*.iml
+*.MF
+out/*
+
+# maven
+target/
+dependency-reduced-pom.xml
